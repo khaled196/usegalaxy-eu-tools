@@ -323,6 +323,7 @@ tools:
 - name: 3dtrees_detailview
   owner: bgruening
   revisions:
+  - 42e755abe831
   - 51bb974cfbb2
   - a4e765e5398e
   tool_panel_section_label: GIS Data Handling
@@ -372,6 +373,7 @@ tools:
   revisions:
   - 32e076a33f8f
   - 4b51d3803987
+  - a5b16cf86c02
   - a9559f8990b9
   - bd474d8124e3
   tool_panel_section_label: GIS Data Handling
