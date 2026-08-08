@@ -470,6 +470,7 @@ tools:
   revisions:
   - 0ae74c70b267
   - 112eb40ba6cf
+  - 1483285bdb7a
   - 17359b808b01
   - 18be2d72fdee
   - 1cfc579079a6
@@ -1158,6 +1159,7 @@ tools:
   - c7c55b694974
   - d5659efd66aa
   - d681e989ac95
+  - d8d32326fbfb
   - de21b616f03a
   - e132e7d02a3e
   tool_panel_section_label: Mapping
@@ -1172,6 +1174,7 @@ tools:
   - a86e80d3c09c
   - b12d81af0291
   - d4b55e2beb12
+  - eaa10652acc2
   - f4af63aaf57a
   tool_panel_section_label: Mapping
 - name: bowtie_wrappers
@@ -2359,6 +2362,7 @@ tools:
   owner: iuc
   revisions:
   - 7d75673f4d6f
+  - b1e50c7b840e
   - b597e1cd14b1
   - c2a413e47fe9
   - f3cc64057b4e
@@ -2367,6 +2371,7 @@ tools:
   owner: iuc
   revisions:
   - 0c58ba91d018
+  - 2e1155375cec
   - 406d3552beca
   - 9aad9ef0502c
   - 9b462be5a604
@@ -2374,6 +2379,7 @@ tools:
 - name: gemini_burden
   owner: iuc
   revisions:
+  - 2adedc87b4b8
   - 95a149a9a75d
   - c70d79e0eed7
   - df57188562f0
@@ -2384,6 +2390,7 @@ tools:
   revisions:
   - 0db31ae5295e
   - 452104bdc655
+  - 77284ac1dcee
   - a26f0a30df65
   - d46017ddbf94
   - e57a1b0ac6be
@@ -2441,6 +2448,7 @@ tools:
   - 142d95ab942e
   - 712aa8283200
   - 9f0f5e984ae3
+  - c2bd9670af64
   - db47f4939381
   tool_panel_section_label: Gemini
 - name: gemini_lof_sieve
@@ -2480,6 +2488,7 @@ tools:
   - 9f74d7b0704a
   - b2c25142267e
   - b5b53c27baca
+  - cca3391dc8b4
   - cf61daf064fe
   tool_panel_section_label: Gemini
 - name: gemini_de_novo
@@ -2491,6 +2500,7 @@ tools:
 - name: gemini_annotate
   owner: iuc
   revisions:
+  - 081adc1e0cd5
   - 0c8f7322f8fc
   - 3859552a63d8
   - 5bcaca8085bd
@@ -2510,6 +2520,7 @@ tools:
   - 345d41f3f574
   - 93967598e18e
   - ce54eb6fd5f9
+  - d509e44a3fe0
   - e7ad2a721c4b
   - e8349da26ed5
   tool_panel_section_label: Gemini
